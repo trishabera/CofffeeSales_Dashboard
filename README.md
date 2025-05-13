@@ -1,7 +1,7 @@
 # CofffeeSales_Dashboard
 Project Title - Interactive Coffee Sales Dashboard in Excel
 1.	Introduction
-- This project is an Excel-based interactive dashboard designed to visualize and analyze coffee sales data for a fictional coffee retailer. 
+- This project is an Excel-based interactive dashboard designed to visualize and analyze coffee sales data for a fictional coffee retailer. The data and the dashboard contains in the same workbook but in different worksheets.
 2.	Business Problem
 - The sales and marketing team lacked a centralized, intuitive view of their sales performance across countries, customer segments, and product types. As a result, decision-making was reactive and not data-driven.
 3.	Goal
