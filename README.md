@@ -26,4 +26,4 @@ Project Title - Interactive Coffee Sales Dashboard in Excel
 - <a href="https://github.com/trishabera/CofffeeSales_Dashboard/blob/main/coffeeSales.xlsx">View Dataset</a>
 9.	Dashboard
 - <a href="https://github.com/trishabera/CofffeeSales_Dashboard/blob/main/Coffee%20Dashboard.png">View Dashboard</a>
-![Coffee Dashboard](https://github.com/user-attachments/assets/a92ab494-5006-4f96-9f26-b4b911ba523a)
+  ![Coffee Dashboard](https://github.com/user-attachments/assets/a92ab494-5006-4f96-9f26-b4b911ba523a)
